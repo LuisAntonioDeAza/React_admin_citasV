@@ -38,7 +38,7 @@ function App() {
 
   return (
     <Fragment>
-      <h1>Administrador de citas</h1>
+      <h1>Administrador de cita</h1>
       <div className="container">
         <div className="row row-cols-1 row-cols-md-2 row-cols-lg-2 float-none">
             <div className="col float-end">
