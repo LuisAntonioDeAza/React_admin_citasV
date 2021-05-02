@@ -13,7 +13,7 @@ function App() {
   //Array que almacena todas las citas
   const [listadoCitas,setListado] = useState(citasIniciales);
 
-  //Funcion que guarda las citas
+  //Funcion que guarda las citass
   const crearCita = (newCita)=>{
     setListado([newCita,...listadoCitas]);
   }
